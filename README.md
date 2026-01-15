@@ -103,5 +103,4 @@ skillsync-ai/
 ---
 
 <sub>Made with React, TypeScript, NestJS & Gemini AI. Stop applying blindly. Start matching intelligently.</sub>
-
 ```
