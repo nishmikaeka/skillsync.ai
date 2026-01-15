@@ -105,6 +105,3 @@ skillsync-ai/
 <sub>Made with React, TypeScript, NestJS & Gemini AI. Stop applying blindly. Start matching intelligently.</sub>
 
 ```
-Would you like me to add a section on how to get the **Google Gemini API Key** so users know where to find it?
-
-```
