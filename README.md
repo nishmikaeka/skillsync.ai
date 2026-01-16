@@ -54,6 +54,7 @@ npm install @google/generative-ai dotenv cors
 # Create .env file
 echo "GEMINI_API_KEY=your_api_key_here" > .env
 echo "PORT=3000" >> .env
+echo "NODE_ENV=development" >> .env
 
 # Generate modules
 nest g service gemini
